@@ -18,6 +18,13 @@ body {
   align-items: center;
   margin-top: 5px;
   margin-bottom: 25px;
+  min-height: 92vh;
+  }
+
+.container-2 {
+  z-index: -2;
+  min-height: 90vh;
+  min-width:100vw;
 }
 
 /* Loader */
@@ -31,6 +38,7 @@ body {
   justify-content: center;
   align-items: center;
 }
+
 
 /* Navigation */
 .navigation-container {
@@ -77,6 +85,7 @@ body {
 
 .clickable:hover {
   color: rgb(0, 99, 199);
+  
 }
 
 /* Images Container */

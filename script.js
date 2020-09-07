@@ -182,3 +182,4 @@ function removeFavorite(itemUrl) {
 
 // On Load
 getNasaPictures();
+//updateDOM('favorites');
